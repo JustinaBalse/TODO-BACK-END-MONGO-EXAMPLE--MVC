@@ -1,0 +1,4 @@
+
+1. model
+2. controllers
+3. routes
